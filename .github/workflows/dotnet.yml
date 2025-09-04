@@ -30,7 +30,7 @@ jobs:
 
     # 🔥 New Step 1: Publish the API
     - name: Publish Backend
-      run: dotnet publish ./RealEstatePortal.csproj -c Release -o ./publish
+      run: dotnet publish ./RealEstate.API/RealEstate.API.csproj -c Release -o ./publish
 
     # 🔥 New Step 2: Upload the published build as an artifact
     - name: Upload Build Artifact
