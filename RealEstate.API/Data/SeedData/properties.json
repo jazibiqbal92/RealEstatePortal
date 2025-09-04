@@ -1,0 +1,182 @@
+[
+  {
+    "Title": "Modern Family Villa",
+    "Price": 1950000,
+    "BedroomCount": 4,
+    "BathroomCount": 3,
+    "Address": "Karachi",
+    "ListingType": 1,
+    "imageUrl": "https://example.com/images/property1.jpg"
+  },
+  {
+    "Title": "Luxury Beach House",
+    "Price": 3500000,
+    "BedroomCount": 5,
+    "BathroomCount": 4,
+    "Address": "Clifton",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property2.jpg"
+  },
+  {
+    "Title": "Cozy Apartment",
+    "Price": 850000,
+    "BedroomCount": 2,
+    "BathroomCount": 1,
+    "Address": "Gulshan",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property3.jpg"
+  },
+  {
+    "Title": "Elegant Penthouse",
+    "Price": 4200000,
+    "BedroomCount": 3,
+    "BathroomCount": 3,
+    "Address": "Islamabad",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property4.jpg"
+  },
+  {
+    "Title": "Spacious Farmhouse",
+    "Price": 5800000,
+    "BedroomCount": 6,
+    "BathroomCount": 5,
+    "Address": "Hyderabad",
+    "ListingType": 1,
+    "imageUrl": "https://example.com/images/property5.jpg"
+  },
+  {
+    "Title": "Compact Studio Apartment",
+    "Price": 450000,
+    "BedroomCount": 1,
+    "BathroomCount": 1,
+    "Address": "Karachi",
+    "ListingType": 1,
+    "imageUrl": "https://example.com/images/property6.jpg"
+  },
+  {
+    "Title": "Beachfront Condo",
+    "Price": 2700000,
+    "BedroomCount": 2,
+    "BathroomCount": 2,
+    "Address": "Gwadar",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property7.jpg"
+  },
+  {
+    "Title": "Urban Townhouse",
+    "Price": 2100000,
+    "BedroomCount": 3,
+    "BathroomCount": 2,
+    "Address": "Lahore",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property8.jpg"
+  },
+  {
+    "Title": "Addressan Bungalow",
+    "Price": 1650000,
+    "BedroomCount": 3,
+    "BathroomCount": 2,
+    "Address": "Rawalpindi",
+    "ListingType": 1,
+    "imageUrl": "https://example.com/images/property9.jpg"
+  },
+  {
+    "Title": "Minimalist Apartment",
+    "Price": 900000,
+    "BedroomCount": 2,
+    "BathroomCount": 1,
+    "Address": "Karachi",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property10.jpg"
+  },
+  {
+    "Title": "Lakeview Villa",
+    "Price": 3200000,
+    "BedroomCount": 4,
+    "BathroomCount": 3,
+    "Address": "Rawalpindi",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property11.jpg"
+  },
+  {
+    "Title": "Downtown Loft",
+    "Price": 1800000,
+    "BedroomCount": 2,
+    "BathroomCount": 1,
+    "Address": "Lahore",
+    "ListingType": 1,
+    "imageUrl": "https://example.com/images/property12.jpg"
+  },
+  {
+    "Title": "Luxury Hilltop House",
+    "Price": 4900000,
+    "BedroomCount": 5,
+    "BathroomCount": 4,
+    "Address": "Murree",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property13.jpg"
+  },
+  {
+    "Title": "Affordable Family Home",
+    "Price": 1250000,
+    "BedroomCount": 3,
+    "BathroomCount": 2,
+    "Address": "Multan",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property14.jpg"
+  },
+  {
+    "Title": "City Center Apartment",
+    "Price": 1550000,
+    "BedroomCount": 2,
+    "BathroomCount": 2,
+    "Address": "Karachi",
+    "ListingType": 1,
+    "imageUrl": "https://example.com/images/property15.jpg"
+  },
+  {
+    "Title": "Countryside Cottage",
+    "Price": 980000,
+    "BedroomCount": 2,
+    "BathroomCount": 1,
+    "Address": "Abbottabad",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property16.jpg"
+  },
+  {
+    "Title": "Mountain View House",
+    "Price": 2850000,
+    "BedroomCount": 4,
+    "BathroomCount": 3,
+    "Address": "Skardu",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property17.jpg"
+  },
+  {
+    "Title": "Family Apartment Complex",
+    "Price": 1350000,
+    "BedroomCount": 3,
+    "BathroomCount": 2,
+    "Address": "Faisalabad",
+    "ListingType": 1,
+    "imageUrl": "https://example.com/images/property18.jpg"
+  },
+  {
+    "Title": "Historic Mansion",
+    "Price": 6200000,
+    "BedroomCount": 7,
+    "BathroomCount": 5,
+    "Address": "Lahore",
+    "ListingType": 2,
+    "imageUrl": "https://example.com/images/property19.jpg"
+  },
+  {
+    "Title": "Seaside Retreat",
+    "Price": 3750000,
+    "BedroomCount": 4,
+    "BathroomCount": 4,
+    "Address": "Karachi",
+    "ListingType": 1,
+    "imageUrl": "https://example.com/images/property20.jpg"
+  }
+]
